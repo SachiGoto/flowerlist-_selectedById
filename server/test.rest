@@ -1,0 +1,20 @@
+
+
+###
+
+GET http://localhost:4500
+
+
+###
+GET http://localhost:4500/content
+
+###
+
+
+GET http://localhost:4500/contact
+
+###
+GET  http://localhost:4500/products
+
+###
+GET  http://localhost:4500/products/2
